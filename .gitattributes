@@ -1,1 +1,5 @@
 nuforcData.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+nuforcData_2020.csv filter=lfs diff=lfs merge=lfs -text
+nuforcData_2022.csv filter=lfs diff=lfs merge=lfs -text
+us_cities_counties_mapdata.csv filter=lfs diff=lfs merge=lfs -text
